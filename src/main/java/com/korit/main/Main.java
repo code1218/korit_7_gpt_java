@@ -12,5 +12,6 @@ public class Main {
         userController.signUp();
         userController.signIn();
         userController.setUserService(userService2);
+        System.out.println("TEST");
     }
 }
